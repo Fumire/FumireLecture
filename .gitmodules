@@ -1,3 +1,6 @@
 [submodule "LaTeXLecture"]
 	path = LaTeXLecture
 	url = git@github.com:Fumire/LaTeXLecture.git
+[submodule "LinuxLecture"]
+	path = LinuxLecture
+	url = git@github.com:Fumire/LinuxLecture.git
