@@ -1,0 +1,3 @@
+[submodule "LaTeXLecture"]
+	path = LaTeXLecture
+	url = git@github.com:Fumire/LaTeXLecture.git
