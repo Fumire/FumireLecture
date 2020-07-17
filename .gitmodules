@@ -4,3 +4,6 @@
 [submodule "LinuxLecture"]
 	path = LinuxLecture
 	url = git@github.com:Fumire/LinuxLecture.git
+[submodule "PythonLecture"]
+	path = PythonLecture
+	url = git@github.com:Fumire/PythonLecture.git
