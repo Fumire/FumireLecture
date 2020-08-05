@@ -7,3 +7,6 @@
 [submodule "PythonLecture"]
 	path = PythonLecture
 	url = git@github.com:Fumire/PythonLecture.git
+[submodule "GitLecture"]
+	path = GitLecture
+	url = git@github.com:Fumire/GitLecture.git
