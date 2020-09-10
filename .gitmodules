@@ -10,3 +10,6 @@
 [submodule "GitLecture"]
 	path = GitLecture
 	url = git@github.com:Fumire/GitLecture.git
+[submodule "DockerLecture"]
+	path = DockerLecture
+	url = git@github.com:Fumire/DockerLecture.git
